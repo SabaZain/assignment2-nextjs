@@ -1,0 +1,22 @@
+.heading{
+    text-align:left;
+    padding: 10px;
+    background-color: chocolate;
+    border-radius: 5px;
+    margin-top: 0%;
+}
+
+.list{
+    color:blue;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: left;
+    padding: 5px;
+}
+.link{
+    color:firebrick;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}

@@ -1,0 +1,25 @@
+.heading{
+    text-align: center;
+    padding: 10px;
+    background-color: chocolate;
+    border-radius: 5px;
+    margin-top: 0%;
+}
+.paragraph{
+    color:blue;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+    padding: 20px;
+}
+.name{
+    color: rgb(199, 25, 25);
+    font-weight: 800;
+}
+.link{
+    color:firebrick;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}

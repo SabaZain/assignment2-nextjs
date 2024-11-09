@@ -29,5 +29,15 @@
     color: aliceblue;
 }
 
+@media (max-width: 768px) {
+    .container{
+        max-width:fit-content;
+        max-height: fit-content;
+    }
+    .container.navbar{
+        display:block;
+    }
+    
+}
 
 

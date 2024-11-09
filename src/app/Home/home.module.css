@@ -35,8 +35,8 @@
         max-height: fit-content;
     }
     .image{
-        max-width: 380px;
-        max-height: 380px;
+        max-width: 200px;
+        max-height: 200px;
     }
     .paragraph{
         font-size: 15px;

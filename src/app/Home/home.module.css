@@ -26,4 +26,20 @@
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
+
+    @media (max-width: 768px) {
+    .main{
+        display: grid;
+        padding: 0 2px;
+    }
+    .image{
+        max-width: fit-content;
+        max-height: fit-content;
+    }
+    .paragraph{
+        font-size: 15px;
+        padding: 5px;
+        margin: auto;
+    }
+}
 }
